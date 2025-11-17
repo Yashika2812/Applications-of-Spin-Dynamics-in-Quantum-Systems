@@ -1,5 +1,7 @@
 # Applications-of-Spin-Dynamics-in-Quantum-Systems
 This repo contains the applications of Spin Dynamics and Quantum Systems, a project which me and my team worked on together for our QM porject (Sem1).
+
+
 <img width="1090" height="735" alt="image" src="https://github.com/user-attachments/assets/1e6ec7ee-61b4-4b1e-a42f-8677ac17abb2" />
 
 The above simulation shows the precession of a spin around external magnetic field. When magnetic field is applied spin magnetic moment  doesn’t just align with it . It rotates and precesses around field direction
