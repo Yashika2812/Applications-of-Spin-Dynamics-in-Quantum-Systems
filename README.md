@@ -38,6 +38,3 @@ In future, This part of the project can be expanded by exploring more applicatio
 # References:
 1.	https://users.dimi.uniud.it/~antonio.dangelo/MMS/materials/magnetic_risonance_imaging.pdf
 2.	http://csci.ucsd.edu/courses/cogs260w2018/files/lecture-04/Lecture4_Readings_Chap14.pdf
-
-1.	https://users.dimi.uniud.it/~antonio.dangelo/MMS/materials/magnetic_risonance_imaging.pdf
-2.	http://csci.ucsd.edu/courses/cogs260w2018/files/lecture-04/Lecture4_Readings_Chap14.pdf
